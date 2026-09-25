@@ -1,38 +1,40 @@
-# Roadmap
+# Online Coursework
 
-## Learning Path
+Here are some online coursework that I have done alongside with my [Bachelor's](https://github.com/Carry-to-1/B-Tech-Ed-IT) 
 
-### Programming to Learn
+### Mathematics
+- [ ] [MIT 18.01SC: Single Variable Calculus]()
+- [ ] [MIT 18.06: Linear Algebra]()
+- [ ] [MIT 6.1200J: Mathematics for Computer Science]()
 
-**C, C++, Rust, Python, RSIC-V assembly**
+### Programming
+- [ ] [UCB: Sysadmin DeCal](https://github.com/Carry-to-1/UCB-Sysadmin-DeCal)
+- [ ] [UCB CS61A: Structure and Interpretation of Computer Programs]()
+- [ ] [Modern C++ Programming by Federico Busato](https://github.com/Carry-to-1/Modern-CPP-Programming)
 
-- [x] C++ [ Resoruces From ~ Federico Busato & CodeWithHarry ] (https://github.com/Carry-to-1/CPP-Learning-Resource)
-- [ ] C [ MIT 6.S096 Effective Programming in C and C++, MIT 6.088 Introduction to C Memory Management and C++ Object-Oriented Programming, MIT 6.087 Practical Programming in C, CodeWithHarry]
-- [ ] Rust [ CS 110L Safety in systems programming ]
+### DSA
+- [ ] [UCB CS61B: Data Structures and Algorithms]()
 
-### Courses to study ~
+### Computer Architecture
+- [ ] [UCB CS61C: Great Ideas in Computer Architecture]()
 
-- [x] Federico Busato Slides
-- [ ] MIT 6.S096 Effective Programming in C and C++
-- [ ] MIT 6.088 Intrduction to C Memory Management and C++ Object-Oriented Programming
-- [ ] MIT 6.087 Practical Programming in C
-- [ ] UCB CS61C
-- [ ] CMU CS15213: CSAPP
-- [ ] MIT 6.826: Principles of Comp Sys
-- [ ] MIT 6.S081: Operating System Engineering
-- [ ] CS162: Operating System
+### Computer Systems Principles
+- [ ] [CMU CS15213: CSAPP]()
 
-#### Advance : 
-
-- [ ] UNSW CS3231 / CS9242 – Advanced Operating Systems
-- [ ] CS140e
-- [ ] MIT 6.172 Performance Engineering of Software Systems
-- [ ] MIT 6.5950 Secure HW Design
-- [ ] MIT 6.824 Distributed Systems
+### Operating System
+- [ ] [MIT 6.1800 (6.033): Computer System Engineering]()
+- [ ] [MIT 6.S081: Operating System Engineering]()
+- [ ] [UCB CS162: Operating System]()
 
 ### Computer Security
-- [ ] MIT 6.858: Computer System Security
+- [ ] [MIT 6.858: Computer System Security]()
 
-### DSA 
-- [ ] MIT 6.006: Introduction to Algorithms
-- [ ] MIT 6.046: Design and Analysis of Algorithms
+### Advance 
+- [ ] [UNSW COMP9242: Advanced Operating Systems]()
+- [ ] [MIT 6.5950/6.5951: Secure Hardware Design Class]()
+- [ ] [MIT 6.824 Distributed Systems]()
+- [ ] [MIT 6.172 Performance Engineering of Software Systems]()
+
+
+
+*Last Updated On 25th September 2026*
