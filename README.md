@@ -15,6 +15,7 @@ Here are some online coursework that I have done alongside with my [Bachelor's](
 
 ### DSA
 - [ ] [UCB CS61B: Data Structures and Algorithms]()
+- [ ] [UNSW COMP2521: Data Structures and Algorithms]()
 
 ### Computer Architecture
 - [ ] [UCB CS61C: Great Ideas in Computer Architecture]()
